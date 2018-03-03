@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="6dp"
+    android:background="@drawable/customborder"
+    >
+
+    <ImageView
+        android:id="@+id/attraction_image_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/karnak"
+        android:scaleType="centerCrop"/>
+
+
+        <TextView
+
+            android:id="@+id/place_name_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/default_place_name"
+            android:layout_marginTop="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginLeft="8dp"
+            android:fontFamily="sans-serif"
+            android:textSize="@dimen/place_name_text_size"
+            android:layout_marginBottom="10dp"/>
+
+        <TextView
+            android:id="@+id/place_desc_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/default_desc"
+            android:textSize="@dimen/place_desc_text_size"
+            android:lines="4"
+            android:textStyle="italic"
+            android:fontFamily="casual"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginStart="8dp"/>
+
+        <TextView
+            android:id="@+id/latitude_longitude_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:fontFamily="casual"
+            android:gravity="center"
+            android:text="@string/default_latitude_longitude"
+            android:textSize="@dimen/place_desc_text_size"
+            android:layout_marginLeft="8dp"
+            android:layout_marginBottom="5dp"
+            android:drawableStart="@drawable/ic_location_on_black_24dp"
+            android:drawableLeft="@drawable/ic_location_on_black_24dp"
+            />
+
+    <TextView
+        android:id="@+id/address_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="italic"
+        android:fontFamily="casual"
+        android:gravity="center"
+        android:text="@string/default_address"
+        android:textSize="@dimen/place_desc_text_size"
+        android:layout_marginLeft="8dp"
+        android:drawableStart="@drawable/location_pointer_map"
+        android:drawableLeft="@drawable/location_pointer_map"
+        />
+
+</LinearLayout>
