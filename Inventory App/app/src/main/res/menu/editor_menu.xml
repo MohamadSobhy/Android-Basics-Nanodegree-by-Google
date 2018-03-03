@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".EditorActivity">
+
+    <!-- option for insert new product -->
+    <item
+        android:title="@string/action_insert_dummy_data"
+        android:id="@+id/action_insert_new_product"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_done"
+        />
+
+    <!-- option to delete the current product -->
+    <item
+        android:id="@+id/action_delete_product"
+        android:title="@string/action_delete"
+        app:showAsAction="never"/>
+
+    <!-- option to contact supplier the current product -->
+    <item
+        android:id="@+id/action_contact_supplier"
+        android:title="@string/contact_supplier"
+        app:showAsAction="never"/>
+
+
+</menu>
