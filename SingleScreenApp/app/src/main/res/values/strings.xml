@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Single Screen App</string>
+    <string name="place_desc">Built between 876 and 879 AD, the Mosque of Ibn Tulun is one of the oldest mosques in Cairo. It was commissioned by Ahmad ibn Ţūlūn, the Abbassid governor of Egypt. The mosque is constructed around a courtyard, with one covered hall on each of the four sides. The minaret, which features a helical outer staircase similar to that of the famous minaret in Samarra, was probably built several centuries later. Parts of the James Bond film The Spy Who Loved Me were filmed at the Mosque of Ibn Tulun.</string>
+    <string name="place_name">Masjid of Ibn Tulun</string>
+    <string name="place_location">Cairo, Egypt.</string>
+    <string name="place_number">No Telphon Number.</string>
+</resources>
