@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Musical Structure App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="songs_fragment">Songs fragment</string>
+    <string name="songs">Songs</string>
+    <string name="albums_fragment">Albums Fragment</string>
+    <string name="albums">Albums</string>
+    <string name="artists_fragment">Artists Fragment</string>
+    <string name="artists">Artists</string>
+    <string name="playlists">Playlists</string>
+    <string name="playlists_fragment">Playlists Fragment</string>
+
+
+</resources>
