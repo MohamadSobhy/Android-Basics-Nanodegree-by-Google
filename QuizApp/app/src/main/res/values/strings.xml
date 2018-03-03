@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <string name="question1">What is the most basic language Microsoft made ?</string>
+
+    <string name="question1_first_choice">Visual Basic</string>
+
+    <string name="question1_correct_choice">Visual Basic</string>
+
+    <string name="question1_second_choice">DirectX</string>
+    <string name="question1_third_choice">Batch</string>
+    <string name="question1_fourth_choice">C++</string>
+    <string name="question1_fifth_choice">.NET namespace</string>
+
+    <string name="question2">The most popular language by Microsoft is ________.</string>
+
+    <string name="question2_first_correct_answer">Visual Basic</string>
+    <string name="question2_second_correct_answer">Visual Basic.NET</string>
+    <string name="question2_third_correct_answer">Visual Studio</string>
+
+    <string name="question3">What is the most complicated language ?</string>
+
+    <string name="question3_first_choice">Actionscript</string>
+    <string name="question3_second_choice">C</string>
+    <string name="question3_third_choice">C#.NET</string>
+
+    <string name="question3_correct_choice">C++</string>
+
+    <string name="question3_fourth_choice">C++</string>
+    <string name="question3_fifth_choice">Visual Basic</string>
+
+    <string name="question4">Mohammad needs to execute a section of code ten times within a program. Compare the selection structures below and select which one meets the needs identified.</string>
+
+    <string name="question4_first_choice">If-Else Statement</string>
+    <string name="question4_second_choice">While Statement</string>
+    <string name="question4_third_choice">For Statement</string>
+
+    <string name="question4_correct_choice">For Statement</string>
+
+    <string name="question4_fourth_choice">If</string>
+    <string name="question4_fifth_choice">Switch Statement</string>
+
+    <string name="question5">A loop that never ends is referred to as a(n)_________.</string>
+
+    <string name="question5_first_choice">While Loop</string>
+    <string name="question5_second_choice">Infinite Loop</string>
+
+    <string name="question5_correct_choice">Infinite Loop</string>
+
+    <string name="question5_third_choice">Finite Loop</string>
+    <string name="question5_fourth_choice">Recursive Loop</string>
+    <string name="question5_fifth_choice">Crazy Loop :D :D</string>
+
+    <string name="question6">Which of the following is not a required part of a for loop ?</string>
+
+    <string name="question6_first_choice">Initialization</string>
+    <string name="question6_second_choice">Condition</string>
+
+    <string name="question6_correct_choice">Variable</string>
+
+    <string name="question6_third_choice">Variable</string>
+    <string name="question6_fourth_choice">Increment</string>
+
+    <string name="question7">Which of the following is keyword in Java ?</string>
+    <string name="question7_first_choice">int</string>
+    <string name="question7_second_choice">native</string>
+    <string name="question7_third_choice">for</string>
+    <string name="question7_fourth_choice">implements</string>
+
+    <string name="reset_text_view">Reset</string>
+    <string name="submit_text_view">Submit</string>
+
+</resources>
